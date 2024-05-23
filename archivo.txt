@@ -1,0 +1,4 @@
+PRODUCTO   CANTIDAD   PRECIO UNIDAD
+Empanada          2           5000
+mango          3           4000
+La venta total es: 22000
